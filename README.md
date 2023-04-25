@@ -1,0 +1,1 @@
+# spacelift_vault_example
